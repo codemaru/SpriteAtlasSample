@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3834147353
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: atlas.sd
+      Dependencies: {}
+    Info_1:
+      Name: atlas.hd
+      Dependencies: {}
